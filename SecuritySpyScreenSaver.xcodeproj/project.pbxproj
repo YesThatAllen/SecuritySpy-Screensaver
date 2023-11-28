@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 60;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -316,7 +316,7 @@
 				ORGANIZATIONNAME = "";
 			};
 			buildConfigurationList = B5F9A81318AFEC4100ECCC8D /* Build configuration list for PBXProject "SecuritySpyScreenSaver" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 15.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
